@@ -475,6 +475,10 @@
     [
       "47234fd9-867d-4ac9-a413-03c5595c4fab",
       "Expansion Port"
+    ],
+    [
+      "b5166e8f-aa2a-446d-ab11-5d01a8f983a2",
+      "Control Registers"
     ]
   ],
   "text_variables": {}
